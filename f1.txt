@@ -1,2 +1,2 @@
 Hello this my first file in git project
-Hello I am Syathirah.
+Hello I am Syathirah
